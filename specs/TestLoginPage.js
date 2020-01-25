@@ -15,11 +15,5 @@ describe('ActiTIME login page functionality', function () {
         login.clickOnKeepmeloggedin();
         login.clickLogin();
     });
-
-
-
-
-
-
     //Test
 });
