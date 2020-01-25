@@ -1,0 +1,27 @@
+SecurityCode,SecurityName,CurrentPrice,ChangeValue,ChangePercent,PreviousPrice,PriceDate,ImageId,AspGroup,AspGroupSortNo,AspName,AspNameSortNo,TableName
+AUD Curncy,$A/$US,0.22,0,-2.22,0.22,11111.222,2,Currencies,2,$A/$US,1,MNN_first_sep18
+BBP Curncy,$A/$US,0.72,0,-0.04,0.72,43361.25431,3,Currencies,6,$A/$US,1,MNN_first_sep18
+CUR Curncy,STG / $US,1.32,0,0.01,1.32,43361.25431,3,Currencies,6,STG / $US,2,MNN_first_sep18
+DURAUD Curncy,Euro / $US,1.17,0,0.03,1.17,43361.25431,3,Currencies,6,Euro / $US,3,MNN_first_sep18
+EJI Index,Euro / $A,1.63,0,-0.05,1.63,43361.25431,3,Currencies,6,Euro / $A,4,MNN_first_sep18
+FCMP Index,Dow Jones,26062.12,-92.55,-0.35,26154.67,43361.25431,2,Indices,7,Dow Jones,1,MNN_first_sep18
+GPX Index,NASDAQ,7895.79,-114.25,-1.43,8010.04,43361.25431,2,Indices,7,NASDAQ,2,MNN_first_sep18
+HKX Index,S&P 500,2888.8,-16.18,-0.56,2904.98,43361.25431,2,Indices,7,S&P 500,3,MNN_first_sep18
+IKY Index,FTSE 100,7302.1,-1.94,-0.03,7304.04,43361.25431,2,Indices,7,FTSE 100,4,MNN_first_sep18
+Index,Nikkei 225,23094.67,273.35,1.2,22821.32,43361.25431,1,Indices,7,Nikkei 225,5,MNN_first_sep18
+Jndex,Nikkei 225,23094.67,273.35,1.2,22821.32,43361.25431,1,Indices,7,Nikkei 225,5,MNN_first_sep18
+KUD Curncy,$A/$US,0.22,0,-2.22,0.22,11111.222,2,Currencies,2,$A/$US,1,MNN_first_sep18
+LBP Curncy,$A/$US,0.72,0,-0.04,0.72,43361.25431,3,Currencies,6,$A/$US,1,MNN_first_sep18
+MUR Curncy,STG / $US,1.32,0,0.01,1.32,43361.25431,3,Currencies,6,STG / $US,2,MNN_first_sep18
+NURAUD Curncy,Euro / $US,1.17,0,0.03,1.17,43361.25431,3,Currencies,6,Euro / $US,3,MNN_first_sep18
+OJI Index,Euro / $A,1.63,0,-0.05,1.63,43361.25431,3,Currencies,6,Euro / $A,4,MNN_first_sep18
+PCMP Index,Dow Jones,26062.12,-92.55,-0.35,26154.67,43361.25431,2,Indices,7,Dow Jones,1,MNN_first_sep18
+QPX Index,NASDAQ,7895.79,-114.25,-1.43,8010.04,43361.25431,2,Indices,7,NASDAQ,2,MNN_first_sep18
+RKX Index,S&P 500,2888.8,-16.18,-0.56,2904.98,43361.25431,2,Indices,7,S&P 500,3,MNN_first_sep18
+SKY Index,FTSE 100,7302.1,-1.94,-0.03,7304.04,43361.25431,2,Indices,7,FTSE 100,4,MNN_first_sep18
+Tndex,Nikkei 225,23094.67,273.35,1.2,22821.32,43361.25431,1,Indices,7,Nikkei 225,5,MNN_first_sep18
+Undex,Nikkei 225,23094.67,273.35,1.2,22821.32,43361.25431,1,Indices,7,Nikkei 225,5,MNN_first_sep18
+VUD Curncy,$A/$US,0.22,0,-2.22,0.22,11111.222,2,Currencies,2,$A/$US,1,MNN_first_sep18
+WBP Curncy,$A/$US,0.72,0,-0.04,0.72,43361.25431,3,Currencies,6,$A/$US,1,MNN_first_sep18
+XUR Curncy,STG / $US,1.32,0,0.01,1.32,43361.25431,3,Currencies,6,STG / $US,2,MNN_first_sep18
+ZURAUD Curncy,Euro / $US,1.17,0,0.03,1.17,43361.25431,3,Currencies,6,Euro / $US,3,MNN_first_sep18
