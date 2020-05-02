@@ -7,7 +7,6 @@ describe('ActiTIME login page functionality', function () {
     //     login.get;
     // });
 
-
     it('Login functionality', function () {
         login.get();
         login.setUsername('admin');
